@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\dekop\source\repos\Beelivery_ASP\PP_LAB3\PP_LAB3\PP_LAB3
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Auto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Basket.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFza2V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Reg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Shared/_ValidationScriptsPartial.cshtml]
