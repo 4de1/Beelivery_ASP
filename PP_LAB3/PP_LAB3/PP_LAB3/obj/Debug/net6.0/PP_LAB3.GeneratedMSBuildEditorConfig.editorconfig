@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PP_LAB3
 build_property.RootNamespace = PP_LAB3
-build_property.ProjectDir = C:\Users\dekop\Source\Repos\Beelivery_ASP\PP_LAB3\PP_LAB3\PP_LAB3\
+build_property.ProjectDir = C:\Users\dekop\source\repos\Beelivery_ASP\PP_LAB3\PP_LAB3\PP_LAB3\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dekop\Source\Repos\Beelivery_ASP\PP_LAB3\PP_LAB3\PP_LAB3
+build_property.MSBuildProjectDirectory = C:\Users\dekop\source\repos\Beelivery_ASP\PP_LAB3\PP_LAB3\PP_LAB3
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Basket.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Basket.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFza2V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Error.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Index.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Menu.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Privacy.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Support.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Support.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcG9ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/User.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/User.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/_ViewImports.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/_ViewStart.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekop/Source/Repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Shared/_Layout.cshtml]
+[C:/Users/dekop/source/repos/Beelivery_ASP/PP_LAB3/PP_LAB3/PP_LAB3/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9qdhmmdn4q
