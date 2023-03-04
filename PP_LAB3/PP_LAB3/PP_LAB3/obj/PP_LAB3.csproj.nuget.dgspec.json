@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj": {}
+    "C:\\Users\\Адель\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj": {
+    "C:\\Users\\Адель\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
+        "projectUniqueName": "C:\\Users\\Адель\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
         "projectName": "PP_LAB3",
-        "projectPath": "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
-        "packagesPath": "C:\\Users\\dekop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\obj\\",
+        "projectPath": "C:\\Users\\Адель\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
+        "packagesPath": "C:\\Users\\Адель\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Адель\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files(x86)\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dekop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Адель\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
