@@ -2446,23 +2446,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Адель\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dekop\\.nuget\\packages\\": {},
+    "D:\\Program Files(x86)\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Адель\\Desktop\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
+      "projectUniqueName": "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
       "projectName": "PP_LAB3",
-      "projectPath": "C:\\Users\\Адель\\Desktop\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
-      "packagesPath": "C:\\Users\\Адель\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Адель\\Desktop\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3\\obj\\",
+      "projectPath": "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\PP_LAB3.csproj",
+      "packagesPath": "C:\\Users\\dekop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dekop\\Source\\Repos\\Beelivery_ASP\\PP_LAB3\\PP_LAB3\\PP_LAB3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Program Files(x86)\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Адель\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dekop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
